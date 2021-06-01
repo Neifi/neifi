@@ -1,5 +1,5 @@
 ### Hi there im Neifi 👋
-- 🔭 I’m currently working IN MBC as SoftwareDeveloper and on personal projects
+- 🔭 I’m currently working in MBC as SoftwareDeveloper and on personal projects
 - 🌱 I’m currently learning Java,Clean Architectures,DDD, and more :D
 - ⚡ Fun fact: Im Bass Player 🎸
 -- 🤔 I’m looking for help with your pet projects 🙂

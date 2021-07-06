@@ -1,5 +1,5 @@
 ### Hi there im Neifi 👋
-- 💻 I’m currently working in MBC as SoftwareDeveloper and on personal projects
+- 💻 I’m currently working in Adevinta Spain as Back end Engineer Real State and on personal projects
 - 📚 I’m currently learning Java,Clean Architectures,DDD, and more :D
 - ⚡ Fun fact: Im Bass Player 🎸
 - 💬 Ask me about whatever you want 🙂
